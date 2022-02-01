@@ -1,4 +1,3 @@
-
 // var arr = ['sandeep','sairam','ashwini','sravan'];
 // //push items
 // // console.log(arr.push('maneesh'));
@@ -56,14 +55,14 @@
 
 //for each
 //  var arr = ['jamun','biryani','choco','laddu'];
-var arr=[1,2,3,4,5,8,7,9,6]
-var result=[]
- arr.forEach((value,index)=>{
-    return result.push(index+1);
-    //  console.log(value);
+// var arr = [1, 2, 3, 4, 5, 8, 7, 9, 6]
+// var result = []
+// arr.forEach((value, index) => {
+//     return result.push(index + 1);
+//  console.log(value);
 
- })
- console.log(result);
+// });
+//  console.log(result);
 
 
 //mapped method
@@ -95,17 +94,5 @@ var result=[]
 // console.log(arv.unshift("hello"));
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// var date = new Date();
+// console.log(date.getFullYear());

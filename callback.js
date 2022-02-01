@@ -1,13 +1,13 @@
-function calldad(func3){
+function calldad(calldarling){
     setTimeout(() => {
         console.log('call dad');
-        func3 ();
+        calldarling();
     }, 2000);
 }
 
 
 
-function callmom(func1){
+function callmom(callgagan){
     setTimeout(() => {
         console.log('call mom');
         callgagan();
@@ -15,7 +15,7 @@ function callmom(func1){
 }
 
 
-function calldarling(fun2){
+function calldarling(callmom){
     setTimeout(() => {
         console.log('darling');
         callmom();
@@ -23,7 +23,7 @@ function calldarling(fun2){
 }
 
 
-function callgagan(fun3){
+function callgagan(callanshu){
     setTimeout(() => {
         console.log('gagan sir');
         callanshu();
@@ -31,7 +31,7 @@ function callgagan(fun3){
 }
 
 
-function callanshu(fun4){
+function callanshu(){
     
     setTimeout(() => {
         console.log('anshu sir');
